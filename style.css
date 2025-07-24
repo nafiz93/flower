@@ -1,0 +1,24 @@
+ .font-inter {
+     font-family: 'Inter', sans-serif;
+ }
+
+ .font-noto {
+     font-family: 'Noto Serif', serif;
+ }
+
+ .card p,
+ button {
+     font-family: 'Inter', sans-serif;
+
+ }
+
+ .card button {
+     font-size: 12px;
+     line-height: 15px;
+     font-weight: 900;
+
+     background-color: #E95A08;
+     color: white;
+     border-radius: 0.25rem;
+     margin-top: 0.5rem;
+ }
