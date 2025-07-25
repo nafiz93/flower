@@ -28,4 +28,24 @@
      font-size: 15px;
      font-weight: 400;
      line-height: 18px;
+
+ }
+
+ .deal-details h1 {
+     font-family: Noto Serif;
+     font-size: 40px;
+     font-weight: 700;
+     line-height: 55px;
+     letter-spacing: 0%;
+     text-align: center;
+ }
+
+ .deal-details p {
+     color: rgba(0, 0, 0, 0.5);
+     font-family: Inter;
+     font-size: 15px;
+     font-weight: 400;
+     line-height: 18px;
+     letter-spacing: 0%;
+     text-align: center;
  }
