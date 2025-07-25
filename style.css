@@ -49,3 +49,30 @@
      letter-spacing: 0%;
      text-align: center;
  }
+
+ .subscribe-title {
+     color: rgb(255, 255, 255);
+     font-family: Noto Serif;
+
+     font-weight: 700;
+
+     letter-spacing: 0%;
+     text-align: center;
+ }
+
+ .footer-desc {
+     color: rgba(0, 0, 0, 0.5);
+     font-family: Inter;
+     font-weight: 400;
+     letter-spacing: 0%;
+     text-align: left;
+ }
+
+ .footer-link {
+     /* Text/Medium/Regular */
+     color: rgb(107, 114, 128);
+     font-family: Inter;
+     font-weight: 400;
+     letter-spacing: 0%;
+     text-align: center;
+ }
