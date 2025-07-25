@@ -72,10 +72,27 @@
  }
 
  .footer-link {
-     /* Text/Medium/Regular */
+
      color: rgb(107, 114, 128);
      font-family: Inter;
      font-weight: 400;
      letter-spacing: 0%;
      text-align: center;
+ }
+
+ /* animation */
+
+ @keyframes spin {
+     from {
+         transform: rotate(0deg);
+     }
+
+     to {
+         transform: rotate(360deg);
+     }
+ }
+
+ .trusted-img {
+
+     animation: spin 20s linear infinite;
  }
